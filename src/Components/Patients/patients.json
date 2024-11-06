@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "age": 30,
+      "gender": "Female",
+      "email": "alice.johnson@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Maple St, Springfield",
+      "medical_condition": "Diabetes",
+      "doctor_assigned": "Dr. Smith"
+    },
+    {
+      "id": 2,
+      "first_name": "Bob",
+      "last_name": "Williams",
+      "age": 45,
+      "gender": "Male",
+      "email": "bob.williams@example.com",
+      "phone": "234-567-8901",
+      "address": "456 Oak Ave, Springfield",
+      "medical_condition": "Hypertension",
+      "doctor_assigned": "Dr. Jones"
+    },
+    {
+      "id": 3,
+      "first_name": "Carol",
+      "last_name": "Brown",
+      "age": 60,
+      "gender": "Female",
+      "email": "carol.brown@example.com",
+      "phone": "345-678-9012",
+      "address": "789 Pine Rd, Springfield",
+      "medical_condition": "Arthritis",
+      "doctor_assigned": "Dr. Lee"
+    },
+    {
+      "id": 4,
+      "first_name": "David",
+      "last_name": "Miller",
+      "age": 28,
+      "gender": "Male",
+      "email": "david.miller@example.com",
+      "phone": "456-789-0123",
+      "address": "321 Cedar Ln, Springfield",
+      "medical_condition": "Asthma",
+      "doctor_assigned": "Dr. Patel"
+    },
+    {
+      "id": 5,
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "age": 35,
+      "gender": "Female",
+      "email": "emily.davis@example.com",
+      "phone": "567-890-1234",
+      "address": "654 Birch Blvd, Springfield",
+      "medical_condition": "Chronic Migraine",
+      "doctor_assigned": "Dr. Chen"
+    },
+    {
+      "id": 6,
+      "first_name": "Frank",
+      "last_name": "Wilson",
+      "age": 50,
+      "gender": "Male",
+      "email": "frank.wilson@example.com",
+      "phone": "678-901-2345",
+      "address": "987 Willow Dr, Springfield",
+      "medical_condition": "Heart Disease",
+      "doctor_assigned": "Dr. Kim"
+    },
+    {
+      "id": 7,
+      "first_name": "Grace",
+      "last_name": "Clark",
+      "age": 40,
+      "gender": "Female",
+      "email": "grace.clark@example.com",
+      "phone": "789-012-3456",
+      "address": "213 Elm St, Springfield",
+      "medical_condition": "Anxiety",
+      "doctor_assigned": "Dr. Smith"
+    },
+    {
+      "id": 8,
+      "first_name": "Henry",
+      "last_name": "Martinez",
+      "age": 65,
+      "gender": "Male",
+      "email": "henry.martinez@example.com",
+      "phone": "890-123-4567",
+      "address": "432 Maple St, Springfield",
+      "medical_condition": "Parkinson's Disease",
+      "doctor_assigned": "Dr. Jones"
+    },
+    {
+      "id": 9,
+      "first_name": "Irene",
+      "last_name": "Lopez",
+      "age": 55,
+      "gender": "Female",
+      "email": "irene.lopez@example.com",
+      "phone": "901-234-5678",
+      "address": "567 Oak Ave, Springfield",
+      "medical_condition": "Osteoporosis",
+      "doctor_assigned": "Dr. Lee"
+    },
+    {
+      "id": 10,
+      "first_name": "Jack",
+      "last_name": "Gonzalez",
+      "age": 38,
+      "gender": "Male",
+      "email": "jack.gonzalez@example.com",
+      "phone": "012-345-6789",
+      "address": "876 Pine Rd, Springfield",
+      "medical_condition": "Allergies",
+      "doctor_assigned": "Dr. Patel"
+    }
+  ]
+  
