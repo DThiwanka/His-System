@@ -5,6 +5,8 @@ import Dashboard from './Components/Dashboard/Dashboard'
 import Doctor from './Components/Doctor/Doctor';
 import Patients from './Components/Patients/Patients';
 import Appointment from './Components/Appointment/Appointment';
+import Calander1 from './Components/Calander/Calander1';
+import Calander2 from './Components/Calander/Calander2';
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
         <Route path="/doctors" element={<Doctor />} />
         <Route path="/patients" element={<Patients />} />
         <Route path="/appointments" element={<Appointment />} />
+        <Route path="/calander2" element={<Calander2 />} />
+        <Route path="/calander1" element={<Calander1 />} />
 
       </Routes>
     </Router>
